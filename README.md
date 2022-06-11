@@ -1,1 +1,1 @@
-# arkenfox congis etc
+# arkenfox configs etc
